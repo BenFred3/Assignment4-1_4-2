@@ -10,3 +10,10 @@ B:\Ben\School\AdvC#\MVCAssignementFrederickson\MVCAppFrederickson\MVCAppFrederic
 B:\Ben\School\AdvC#\MVCAssignementFrederickson\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.dll
 B:\Ben\School\AdvC#\MVCAssignementFrederickson\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.pdb
 B:\Ben\School\AdvC#\MVCAssignementFrederickson\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.csprojAssemblyReference.cache
+B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson.Shared\bin\Debug\MVCAppFrederickson.Shared.dll.config
+B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson.Shared\bin\Debug\MVCAppFrederickson.Shared.dll
+B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson.Shared\bin\Debug\MVCAppFrederickson.Shared.pdb
+B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.csprojAssemblyReference.cache
+B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.csproj.CoreCompileInputs.cache
+B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.dll
+B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.pdb

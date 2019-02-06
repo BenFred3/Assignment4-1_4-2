@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson\obj\Release\Package\PackageTmp" />
+  <setAcl path="B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

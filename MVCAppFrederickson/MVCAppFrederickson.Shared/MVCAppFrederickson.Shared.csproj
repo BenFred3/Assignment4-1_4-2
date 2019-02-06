@@ -49,6 +49,7 @@
     <Compile Include="ViewModels\StudentViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="packages.config" />
     <None Include="Scripts\esm\popper-utils.js.map" />
     <None Include="Scripts\esm\popper-utils.min.js.map" />

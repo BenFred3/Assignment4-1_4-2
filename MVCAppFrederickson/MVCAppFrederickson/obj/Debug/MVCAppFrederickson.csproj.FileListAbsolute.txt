@@ -217,3 +217,4 @@ B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson\obj\
 B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson\obj\Debug\MVCAppFrederickson.csproj.CopyComplete
 B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson\obj\Debug\MVCAppFrederickson.dll
 B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson\obj\Debug\MVCAppFrederickson.pdb
+B:\Ben\School\AdvC#\Assignment4-1_4-2\MVCAppFrederickson\MVCAppFrederickson\bin\MVCAppFrederickson.Shared.dll.config
